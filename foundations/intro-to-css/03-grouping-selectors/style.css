@@ -1,1 +1,10 @@
-/* Add CSS Styling */
+.inverted
+.odd{
+    font-size: 28px; font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.odd{
+    background-color: black; color: white;
+}
+.alert-text{
+   background-color: yellow; 
+}
